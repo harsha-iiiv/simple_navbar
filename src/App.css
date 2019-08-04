@@ -1,0 +1,26 @@
+
+
+ 
+ 
+.navbar{
+   align-items: center;
+   background-color: lightgray; 
+   
+
+}
+.set{
+  padding-left: 87.5%;
+  padding-bottom: 0%;
+
+}
+.top{
+  z-index: 100;
+}
+.fixsize{
+
+ width: 100px;
+ height: 36px;
+ }
+input{
+  padding: 6px 16px;
+}
